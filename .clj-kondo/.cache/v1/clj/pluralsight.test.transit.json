@@ -1,0 +1,1 @@
+["^ ","~$last-four",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$pluralsight.test","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:string","~:arglist-str","[serial-num]"]],"~:type","~:fn"],"~:filename","/Users/hackemate/Developer/clojure/pluralsight/src/pluralsight/test.clj"]
